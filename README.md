@@ -3,7 +3,7 @@
 <p>
   <img src="https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png" alt="Azure Logo" width="150" />
   &nbsp;&nbsp;
-  <img src="https://qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python Logo" width="150" height="100"/>
+  <img src="https://qavalidation.com/wp-content/uploads/2018/02/python-logo.png" alt="Python Logo" width="100" height="100"/>
 </p>
 
 <h3>Currently learning:</h3>
