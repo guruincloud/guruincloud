@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/bfa69683-a2eb-45f7-9658-de5ecafb9786" alt="Other Logo" width="150"/>
 </p>
 
-**Currently learning:** 
--Python 🐍
--Azure ☁️
-
+<h3>**Currently learning:**</h3>
+<p>- Python 🐍</p>
+<br>
+<p>- Azure ☁️</p>
